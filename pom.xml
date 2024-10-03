@@ -14,7 +14,7 @@
         <j.assert.version>3.24.2</j.assert.version>
         <junit.version>5.9.2</junit.version>
         <gson.version>2.10.1</gson.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <lombok.version>1.18.30</lombok.version>
         <mariadb.version>3.3.2</mariadb.version>
         <servlet.version>6.0.0</servlet.version>
